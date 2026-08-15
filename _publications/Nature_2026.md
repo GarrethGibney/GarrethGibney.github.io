@@ -3,7 +3,7 @@ title: "Reproducibility and robustness of economics and political science resear
 collection: publications
 category: manuscripts
 permalink: /publication/Nature_2026
-excerpt:
+excerpt: ' '
 date: 2026-04-01
 venue: 'Nature'
 slidesurl: # 'https://academicpages.github.io/files/slides1.pdf'
