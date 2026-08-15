@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author: 
   # Biographic information
   avatar           : "profile_pic.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Garreth"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Enviromental and Labour Economist"
   location         : "Ireland"
   employer         : "University of Galway"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
